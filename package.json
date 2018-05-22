@@ -1,0 +1,16 @@
+{
+  "name": "accountlinking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "proxy": "bst proxy lambda index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bespoken-tools": "^1.2.10",
+    "winston": "^2.4.2"
+  }
+}

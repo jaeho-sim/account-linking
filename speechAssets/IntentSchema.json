@@ -1,0 +1,11 @@
+{
+  "intents": [
+    {
+      "intent": "EmailCheckIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
+
